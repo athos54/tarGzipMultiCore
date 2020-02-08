@@ -6,4 +6,4 @@ Download file and put it on /usr/local/bin
 
 Compress something:
 
-tarGzipMultiCore originFolderPath destinyFile.tar.gz
+`tarGzipMultiCore originFolderPath destinyFile.tar.gz`
