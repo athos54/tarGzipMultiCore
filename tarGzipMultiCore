@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tar cf - $1 | pigz > $2
